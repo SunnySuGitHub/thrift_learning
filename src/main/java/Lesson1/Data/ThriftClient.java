@@ -27,7 +27,7 @@ public class ThriftClient {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
-//            transport.close();
+            transport.close();
         }
     }
 }
