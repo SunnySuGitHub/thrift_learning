@@ -10,3 +10,10 @@ web3
 web4
 13
 web5
+
+如果想拉取最新的代码，但又不想创建一次commit 使用git stash
+    再git pull 再git pop，解决冲突后继续开发，最后git add，git commit
+
+可以使用git commit --amend修改上一次的commit
+
+hahaha
