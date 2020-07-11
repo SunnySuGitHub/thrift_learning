@@ -21,3 +21,5 @@ web5
 
 像今天那种情况，可以先git add 再git commit --amend修改内容和注释 再git pull --rebase 解决后再push
     这样一来自己的push只有自己的代码，而且还是最新的版本
+    
+web6
