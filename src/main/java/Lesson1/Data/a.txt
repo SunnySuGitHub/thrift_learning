@@ -28,4 +28,3 @@ web6
 
 web7
 mac pro 2
->>>>>>> a039e34... mac pro 2
