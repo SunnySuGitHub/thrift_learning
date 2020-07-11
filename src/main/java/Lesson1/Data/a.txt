@@ -19,7 +19,7 @@ web5
 如果已经commit，需要拉取最新的代码，使用git pull --rebase，解决冲突后使用git add
     再git rebase --continue  这样就相当于拉取的代码加上了你的新代码，而commit还是之前的那一个
 
-像今天那种情况，可以先git add 再git commit --amend修改内容和注释 再git pull --rebase 解决后再push
+像今天那种情况，可以先git add 再git commit --amend修改内容和注释 再git pull --rebase 解决后再git add, 再git rebase --continue 再push
     这样一来自己的push只有自己的代码，而且还是最新的版本
     
 web6
