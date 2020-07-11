@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="250acae0-ccf5-4a4e-9ced-e503334338a0" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,8 +13,13 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Hello/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson1/Hello/Season.java" afterDir="false" />
+>>>>>>> 3fd73a3... mac pro 1
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thrift_learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson1/Data/ThriftClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson1/Data/ThriftClient.class" afterDir="false" />
     </list>
 >>>>>>> refs/remotes/origin/master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,6 +89,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -247,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThriftClient">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HelloClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson1.Hello.HelloClient" />
       <module name="thrift_learning" />
@@ -262,8 +269,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Hello.HelloServer" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.Hello.Main" />
       <module name="thrift_learning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -343,17 +350,17 @@
     <list>
       <item itemvalue="Application.ThriftServer" />
       <item itemvalue="Application.ThriftClient" />
-      <item itemvalue="Application.HelloServer" />
       <item itemvalue="Application.HelloClient" />
       <item itemvalue="Application.ThriftApplication" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThriftClient" />
         <item itemvalue="Application.ThriftServer" />
         <item itemvalue="Application.HelloClient" />
         <item itemvalue="Application.ThriftApplication" />
-        <item itemvalue="Application.HelloServer" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +430,9 @@
   </component>
 =======
       <workItem from="1590200674401" duration="9253000" />
-      <workItem from="1594131482817" duration="773000" />
+      <workItem from="1594131482817" duration="3558000" />
+      <workItem from="1594281868226" duration="2004000" />
+      <workItem from="1594290364047" duration="917000" />
     </task>
     <servers />
   </component>
@@ -436,7 +445,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
